@@ -1,0 +1,13 @@
+<p>Book Details</p>
+
+<img src="{{book.cover.medium}}" alt="{{book.title}}" />
+<h1>Title: <span itemprop="name">{{ book.title }}</span></h1>
+<h2>Author: <span itemprop="author">{{ book?.authors[0]?.name }}</span></h2>
+<p>Number of Pages: <span itemprop="numberOfPages">{{ book.number_of_pages }}</span></p>
+<p>ISBN: <span itemprop="isbn">{{ isbn }}</span></p>
+
+<p>This button is only interactable in browser mode</p>
+<button (click)="clickedTestButton()">Test Button</button>
+
+<p *appShellNoRender>This shows up in client mode only</p>
+<p *appShellRender>This shows up in server mode only</p>
