@@ -27,3 +27,5 @@ https://web.dev/rendering-on-the-web/
 https://indepth.dev/posts/1437/angular-universal-real-app-problems  
   
 https://web.dev/first-contentful-paint/
+  
+https://schema.org/Book
