@@ -22,8 +22,8 @@ Disclaimer: This guide is aimed towards beginner, many terminology and concepts 
 
 Extended Reading:
   
-https://indepth.dev/posts/1437/angular-universal-real-app-problems
-  
 https://web.dev/rendering-on-the-web/
+
+https://indepth.dev/posts/1437/angular-universal-real-app-problems  
   
 https://web.dev/first-contentful-paint/
