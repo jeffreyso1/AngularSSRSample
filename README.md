@@ -16,7 +16,7 @@ This respository is a introduction to Angular SSR for Home Depot Academy (Home D
   
 3. The powerpoint included serve as a companion powerpoint and should be viewed together while reading the code
   
-Disclaimer: This guide is aimed towards beginner, many terminology and graphpics have been greatly simplified. For proper definition, go to extended reading.
+Disclaimer: This guide is aimed towards beginner, many terminology and concepts have been greatly simplified. For proper definition, go to extended reading.
   
 ---
 
