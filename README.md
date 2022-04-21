@@ -20,7 +20,7 @@ Disclaimer: This guide is aimed towards beginner, many terminology and concepts 
   
 ---
 
-Extended Reading:
+Extended Reading (in this order):
   
 https://web.dev/rendering-on-the-web/
 
